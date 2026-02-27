@@ -21,13 +21,6 @@ My focus is on clean code, consistent progress, and understanding how applicatio
 - VS Code  
 - Markdown  
 
----
-
-## 📊 GitHub Stats
-
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanconlon&show_icons=true)
-
----
 
 ## 📌 Projects
 
