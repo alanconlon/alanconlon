@@ -2,8 +2,37 @@
 
 Hi, I’m **Alan Conlon**.
 
-I use this GitHub to document my work, track my progress, and share projects as I build them.  
-My focus is on developing practical skills, writing clean and maintainable code, and understanding how systems work end-to-end.
+I’m using this GitHub to build and document real projects as I develop practical software skills.  
+My focus is on clean code, consistent progress, and understanding how applications work from end to end.
+
+---
+
+## 🚧 Current Focus
+
+- Building my first full project from scratch  
+- Strengthening Git and GitHub workflows  
+- Learning core programming fundamentals  
+
+---
+
+## 🛠️ Tools I Use
+
+- Git & GitHub  
+- VS Code  
+- Markdown  
+
+---
+
+## 📊 GitHub Stats
+
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanconlon&show_icons=true)
+
+---
+
+## 📌 Projects
+
+- 🚀 First project in progress  
+- More coming soon  
 
 ---
 
